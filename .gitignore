@@ -1,0 +1,5 @@
+/htdocs/system/storage/cache/
+!/htdocs/system/storage/cache/index.html
+/htdocs/system/PHPExcel/
+/htdocs/image/cache/
+!/htdocs/image/cache/index.html

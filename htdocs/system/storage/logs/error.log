@@ -1,0 +1,97 @@
+2017-09-25 23:31:03 - PHP Warning:  copy(): Filename cannot be empty in /virt/homes/get-lost/htdocs/admin/controller/tool/price_holder.php on line 88
+2017-09-25 23:31:03 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-25 23:31:03 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-25 23:31:03 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-25 23:31:03 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-25 23:31:20 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-25 23:31:20 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-25 23:31:20 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-25 23:31:20 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-25 23:37:55 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-25 23:37:55 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-25 23:37:55 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-25 23:37:55 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-25 23:38:06 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-25 23:38:06 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-25 23:38:06 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-25 23:38:06 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-25 23:40:02 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-25 23:40:02 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-25 23:40:02 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-25 23:40:02 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-26 0:14:33 - PHP Notice:  Error: Could not load model /virt/homes/get-lost/htdocs/admin/model/catalog/product_holder.php! in /virt/homes/get-lost/htdocs/system/engine/loader.php on line 63
+2017-09-26 0:16:41 - PHP Notice:  Error: Unknown column 'product_id' in 'field list'<br />Error No: 1054<br />INSERT INTO rez_oc_ina_price_holder_products SET product_id = '50', php_id='142' in /virt/homes/get-lost/htdocs/system/library/db/mysqli.php on line 41
+2017-09-26 0:16:41 - PHP Notice:  Error: Unknown column 'product_id' in 'field list'<br />Error No: 1054<br />INSERT INTO rez_oc_ina_price_holder_products SET product_id = '50', php_id='136' in /virt/homes/get-lost/htdocs/system/library/db/mysqli.php on line 41
+2017-09-26 0:51:18 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-26 0:51:18 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-26 0:51:18 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-26 0:51:18 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-26 0:59:29 - PHP Warning:  copy(): Filename cannot be empty in /virt/homes/get-lost/htdocs/admin/controller/tool/price_holder.php on line 88
+2017-09-26 0:59:29 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-26 0:59:29 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-26 0:59:29 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-26 0:59:29 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-26 19:09:17 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-26 19:09:17 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-26 19:09:17 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-26 19:09:17 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-26 19:09:49 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-26 19:09:49 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-26 19:09:49 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-26 19:09:49 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-26 19:09:53 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-26 19:09:53 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-26 19:09:53 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-26 19:09:53 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-26 19:10:02 - PHP Warning:  copy(): Filename cannot be empty in /virt/homes/get-lost/htdocs/admin/controller/tool/price_holder.php on line 88
+2017-09-26 19:10:02 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-26 19:10:02 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-26 19:10:02 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-26 19:10:02 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-26 19:11:55 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-26 19:11:55 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-26 19:11:55 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-26 19:11:55 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-26 19:18:50 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-26 19:18:50 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-26 19:18:50 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-26 19:18:50 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-26 19:19:19 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-26 19:19:19 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-26 19:19:19 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-26 19:19:19 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-26 19:19:30 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-26 19:19:30 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-26 19:19:30 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-26 19:19:30 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-26 19:24:42 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-26 19:24:42 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-26 19:24:42 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-26 19:24:42 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-26 19:24:58 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-26 19:24:58 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-26 19:24:58 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-26 19:24:58 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-26 19:27:03 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-26 19:27:03 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-26 19:27:03 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-26 19:27:03 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-26 19:28:50 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-26 19:28:50 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-26 19:28:50 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-26 19:28:50 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-29 8:39:53 - PHP Warning:  copy(): Filename cannot be empty in /virt/homes/get-lost/htdocs/admin/controller/tool/price_holder.php on line 88
+2017-09-29 8:39:53 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-29 8:39:53 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2017-09-29 8:39:53 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2017-09-29 8:39:53 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2018-02-16 9:25:52 - PHP Warning:  copy(): Filename cannot be empty in /virt/homes/get-lost/htdocs/admin/controller/tool/price_holder.php on line 88
+2018-02-16 9:25:52 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2018-02-16 9:25:52 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2018-02-16 9:25:52 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2018-02-16 9:25:52 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2018-02-16 9:26:41 - PHP Warning:  copy(): Filename cannot be empty in /virt/homes/get-lost/htdocs/admin/controller/tool/price_holder.php on line 88
+2018-02-16 9:26:41 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2018-02-16 9:26:41 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 203
+2018-02-16 9:26:41 - PHP Notice:  Undefined variable: error_notifications in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
+2018-02-16 9:26:41 - PHP Notice:  Undefined variable: text_retry in /virt/homes/get-lost/htdocs/admin/view/template/tool/worksheets.tpl on line 206
